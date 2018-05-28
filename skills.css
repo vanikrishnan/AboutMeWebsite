@@ -1,0 +1,27 @@
+body{
+    background: url("pexels-photo-953214.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1 {
+     color:pink;
+     text-align: center;
+ }
+ ul.a {
+     text-align: center;
+     color:magenta;
+ }
+ .floatleft{
+    float:left;
+    margin-left:40px;
+}
+.floatleft a {
+    margin-right: 10px;
+}
+.header {
+    background-color: #F8F8F8;
+    height: 50px;
+    border-top: 5px solid red;
+}

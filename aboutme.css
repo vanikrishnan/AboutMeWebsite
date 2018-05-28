@@ -1,0 +1,36 @@
+body{
+    background: url("pexels-photo-207301.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  div.a {
+     text-align: center;
+     font-style: oblique;
+     font-size: 150%;
+     height: 100%;
+     width: 100%;
+     display: flex;
+     position: fixed;
+     align-items: center;
+     justify-content: center;
+     color:yellow;
+ }
+ .floatleft{
+    float:left;
+    margin-left:40px;
+}
+.floatleft a {
+    margin-right: 10px;
+}
+.header {
+    background-color:burlywood;
+    height: 50px;
+    border-top: 5px solid red;
+}
+.footer {
+    text-align: center;
+    position: relative;
+    top: 550px;
+}
